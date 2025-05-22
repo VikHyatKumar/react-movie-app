@@ -47,10 +47,10 @@ A responsive web application that helps users discover movies using the TMDB API
 
 3. Create a .env file in the root directory with your API keys:
 
-VITE_TMDB_API_KEY=your_tmdb_api_key_here
-VITE_APPWRITE_PROJECT_ID=your_appwrite_project_id
-VITE_APPWRITE_DATABASE_ID=your_appwrite_db_id
-VITE_APPWRITE_COLLECTION_ID=your_appwrite_collection_id
+   - VITE_TMDB_API_KEY=your_tmdb_api_key_here
+   - VITE_APPWRITE_PROJECT_ID=your_appwrite_project_id
+   - VITE_APPWRITE_DATABASE_ID=your_appwrite_db_id
+   - VITE_APPWRITE_COLLECTION_ID=your_appwrite_collection_id
 
 4. Start the development server:
    ```bash
