@@ -40,7 +40,7 @@ A responsive web application that helps users discover movies using the TMDB API
 2. Install Dependencies: 
    ```bash
    npm install
-# or
+   # or
    yarn install
 
 3. Create a .env file in the root directory with your API keys:
@@ -53,7 +53,7 @@ VITE_APPWRITE_COLLECTION_ID=your_appwrite_collection_id
 4. Start the development server:
    ```bash
    npm run dev
-# or
+   # or
    yarn dev
 
 5. Open your browser at http://localhost:5173   
