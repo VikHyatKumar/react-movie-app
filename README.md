@@ -2,7 +2,9 @@
 
 A responsive web application that helps users discover movies using the TMDB API, with trending movie tracking powered by Appwrite.
 
-![App Screenshot](./screenshot.png) <!-- Add a screenshot later -->
+![App Screenshot](./src/assets/movie-ss1.png) 
+![App Screenshot](./src/assets/movie-ss2.png)
+![App Screenshot](./src/assets/movie-ss3.png)
 
 ## Features ✨
 
